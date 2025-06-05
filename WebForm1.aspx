@@ -17,7 +17,7 @@
             <asp:Button ID="btnSumar" runat="server" Text="Sumar" OnClick="btnSumar_Click" />
             <asp:Label ID="lblResultado" runat="server"></asp:Label>
 
-            <asp:Button ID="boton1" runat="server" OnClick="boton1_Click" Text="Ir pagina 02 " BackColor="YellowGreen" />
+            <asp:Button ID="boton1" runat="server" OnClick="boton1_Click" Text="Ir pagina 2 " BackColor="YellowGreen" />
         </div>
     </form>
 </body>
